@@ -1,0 +1,6 @@
+{
+  "name": "Geera",
+  "description": "Geera - Smart residential payment link system and automated billings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
